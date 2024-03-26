@@ -10,7 +10,7 @@ This repository provides the data and visualization code of the following paper.
 
 #### 2024.03.25
 
-- We promptly corrected some errors in the visualization code and updated all the figures in the paper and this repository.
+- We promptly corrected some mistakes in the visualization code and updated all the figures in the paper and this repository.
 
 - Additionally, we updated the prompts used in the English version, making the corresponding figure in the paper look better.
 
