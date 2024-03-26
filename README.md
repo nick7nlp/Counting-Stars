@@ -18,7 +18,7 @@ This repository provides the data and visualization code of the following paper.
 
 #### 2024.03.26
 
-- To avoid the ground truth values constructed monotonically increasing to affect the testing results, we shuffled and tested the ground truth values, and the results are shown in Figure 8. The results show that LLMs are indeed more sensitive to ordered values.
+- To avoid the ground truth values constructed monotonically increasing to affect the testing results, we shuffled and tested the ground truth values, and the results are shown in the following figure. The results show that LLMs are indeed more sensitive to ordered values.
 
 ![stone_gpt4_kimi_32_32_random](fig/stone_gpt4_kimi_32_32_random.png)
 
