@@ -2,7 +2,8 @@
 
 This repository provides the data and visualization code of the following paper.
 
-[Counting-Stars (★): A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.11802v2.pdf)
+[Counting-Stars (★):\
+A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.11802v2.pdf)
 
 #
 
