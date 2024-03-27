@@ -7,6 +7,7 @@ A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large L
 
 #
 
+
 ## Note
 
 #### 2024.03.25
@@ -14,6 +15,10 @@ A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large L
 - We promptly corrected some mistakes in the visualization code and updated all the figures in the paper and this repository.
 
 - Additionally, we updated the prompts used in the English version, making the corresponding figure in the paper look better.
+
+#### 2024.03.27
+
+- [The supplementary information about NeedleInAHaystack is available in Chinese.](fig/README.md)
 
 ## Highlight
 
