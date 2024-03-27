@@ -20,10 +20,10 @@
 
 ##### OpenCompass官方指定上下文数据：
 
-<img src="needles_v1.jpg" width=90%>
+<img src="needles_v1.jpg" width=70%>
 
 ##### 红楼梦：
 
-<img src="needles_v2.jpg" width=90%>
+<img src="needles_v2.jpg" width=70%>
 
 所以，根据目前的结果看，大海捞多针策略存在一定的弊端。
