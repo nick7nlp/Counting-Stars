@@ -36,7 +36,7 @@ We'd like to encourage you to test the Counting-Stars using
 
 #### 2024.03.27
 
-- [大海捞多针纠错实验的补充介绍](fig/README.md)
+- [大海捞多针纠错实验的补充介绍](supplementary/README.md)
 
 <!-- [The supplementary information about NeedleInAHaystack is available in Chinese.](fig/README.md) -->
 
@@ -52,7 +52,7 @@ We'd like to encourage you to test the Counting-Stars using
 
 - 我们发现大模型很喜欢偷懒，如果星星数量是递增的，那么即使根据区间随机生成数量，对大模型来说也是更为敏感的信息。因此，我们首先生成递增数列，然后打乱再插入上下文中，结果如下图。
 
-![stone_gpt4_kimi_32_32_random](fig/stone_gpt4_kimi_32_32_random.png)
+![stone_gpt4_kimi_32_32_random](supplementary/stone_gpt4_kimi_32_32_random.png)
 
 - 综上，我们认为打乱顺序可以作为一个更难的版本（这个实验在论文中已增加）。
 
