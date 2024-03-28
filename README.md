@@ -10,15 +10,34 @@ A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large L
 
 ## Note
 
+#### 2024.03.28
+
+补充介绍：
+
+我们设计数星星的时候，为了保证可扩展性，引入了两个参数，即M和N。具体而言，M代表了数星星的次数，N代表了对上下文长度划分的不同粒度。M可以理解为大海捞针中的文档深度（document depth），N可以理解为大海捞针中的上下文长度（context length）。
+进一步，其实，M可以对应论文中展示图例中的纵轴，N可以对应横轴，可以用下面Highlight部分中的图作为参考，即Counting-Stars-(32-32)的版本。
+- **N=32**, sky size (context length) = [4000, 8000, 12000, 16000, 20000, 24000, 28000, 32000, 36000, 40000, 44000, 48000, 52000, 56000, 60000, 64000, 68000, 72000, 76000, 80000, 84000, 88000, 92000, 96000, 100000, 104000, 108000, 112000, 116000, 120000, 124000, 128000]
+- **N=16**, sky size (context length) = [8000, 16000, 24000, 32000, 40000, 48000, 56000, 64000, 72000, 80000, 88000, 96000, 104000, 112000, 120000, 128000]
+
+上述是将128K作为测试的最大上下文长度。当然，相比N=32，N=16是更为简单的版本。
+
+此外，构建不同的N，还有两个原因：
+- 通过实验，我们发现模型在100K可能表现很好，即数星星获得满分，但是96K或者更短的上下文上是差的，这点论文中有说明。
+- 通过控制N的大小，进而控制数星星任务的难度。
+
+（近期，收到email咨询相关问题，由于论文写作完成的比较急促（2024.3.16-17完成[v1](https://arxiv.org/abs/2403.11802v1)，2024.3.23-24完成[v2](https://arxiv.org/abs/2403.11802v2)，期间还在审稿ACL等会议文章，因此导致论文中有些介绍可能不充分），在此补充一些介绍，之后有时间我们将会修改和补充论文中有歧义的部分。）
+
+#### 2024.03.27
+
+- [大海捞多针纠错实验的补充介绍](fig/README.md)
+
+<!-- [The supplementary information about NeedleInAHaystack is available in Chinese.](fig/README.md) -->
+
 #### 2024.03.25
 
 - We promptly corrected some mistakes in the visualization code and updated all the figures in the paper and this repository.
 
 - Additionally, we updated the prompts used in the English version, making the corresponding figure in the paper look better.
-
-#### 2024.03.27
-
-- [The supplementary information about NeedleInAHaystack is available in Chinese.](fig/README.md)
 
 ## Highlight
 
