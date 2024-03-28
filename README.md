@@ -50,10 +50,11 @@ We'd like to encourage you to test the Counting-Stars using
 
 #### 2024.03.26
 
-- To avoid the ground truth values constructed monotonically increasing to affect the testing results, we shuffled and tested the ground truth values, and the results are shown in the following figure. The results show that LLMs are indeed more sensitive to ordered values.
+- 我们发现大模型很喜欢偷懒，如果星星数量是递增的，那么即使根据区间随机生成数量，对大模型来说也是更为敏感的信息。因此，我们首先生成递增数列，然后打乱再插入上下文中，结果如下图。
 
 ![stone_gpt4_kimi_32_32_random](fig/stone_gpt4_kimi_32_32_random.png)
 
+- 综上，我们认为打乱顺序可以作为一个更难的版本（这个实验在论文中已增加）。
 
 ## CONTACT
 For any questions, feel free to create an issue, and we will try our best to solve it. \
