@@ -5,6 +5,13 @@ This repository provides the data and visualization code of the following paper.
 [Counting-Stars (★):\
 A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.11802v2.pdf)
 
+
+We'd like to encourage you to test the Counting-Stars using
+- Counting_Stars_32_32.jsonl
+- Counting_Stars_Random_32_32.jsonl
+
+, the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
+
 #
 
 
