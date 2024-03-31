@@ -30,11 +30,12 @@ We'd like to encourage you to test the Counting-Stars using
 - 通过实验，我们发现模型在100K可能表现很好，即数星星获得满分，但是96K或者更短的上下文上是差的，这点论文中有说明。
 - 通过控制N的大小，进而控制数星星任务的难度。
 
-（近期，收到email咨询相关问题，由于论文写作完成的比较急促（2024.3.16-17完成[v1](https://arxiv.org/abs/2403.11802v1)，2024.3.23-24完成[v2](https://arxiv.org/abs/2403.11802v2)，期间还在审稿ACL等会议文章，因此导致论文中有些介绍可能不充分），在此补充一些介绍，之后有时间我们将会修改和补充论文中有歧义的部分。）
+近期，收到email咨询数星星细节的相关问题，由于相关实验和论文写作完成的比较急促（**2024.3.7-15构思+完成数星星实验，2024.3.16-17完成论文[v1](https://arxiv.org/abs/2403.11802v1)，2024.3.23-24完成论文[v2](https://arxiv.org/abs/2403.11802v2)，期间还在审稿ACL等会议文章，因此导致论文中有些介绍可能不充分**），在此补充一些介绍，之后有时间我们将会修改和补充论文中有歧义的部分。
+
 
 #### 2024.03.27
 
-- [大海捞多针纠错实验的补充介绍](supplementary/README.md)
+- [大海捞多针（OpenCompass版本）纠错实验的补充介绍](supplementary/README.md)
 
 <!-- [The supplementary information about NeedleInAHaystack is available in Chinese.](fig/README.md) -->
 
