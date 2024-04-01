@@ -5,11 +5,13 @@
 
 # A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models
 
-This repository provides the data and visualization code of the following paper.
+<p align="center">
+  <a href="./README_ZH.md">中文</a> •
+  <a href="./README.md">English</a> •
+  <a href="https://arxiv.org/pdf/2403.11802v2.pdf">Paper</a>
+</p>
 
-[Counting-Stars (★):\
-A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models](https://arxiv.org/pdf/2403.11802v2.pdf)
-
+</div>
 
 We'd like to encourage you to test the Counting-Stars using
 - Counting_Stars_32_32.jsonl
