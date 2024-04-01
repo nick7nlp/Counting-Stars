@@ -12,6 +12,7 @@ We'd like to encourage you to test the Counting-Stars using
 
 , the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
 
+![explain](supplementary/explain.png)
 
 ## Note
 
