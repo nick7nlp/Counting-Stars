@@ -13,17 +13,17 @@
 
 </div>
 
+
+![explain](supplementary/explain.png)
+
+## Note
+
 We'd like to encourage you to test the Counting-Stars using
 - Counting_Stars_32_32.jsonl
 - Counting_Stars_Random_32_32.jsonl
 
 , the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
-
-![explain](supplementary/explain.png)
-
 The figure above may help you understand the idea of the Counting-Stars, including the meaning of the parameters **M** and **N**.
-
-## Note
 
 #### 2024.03.28
 
