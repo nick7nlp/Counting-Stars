@@ -35,7 +35,7 @@ We'd like to encourage you to test the Counting-Stars using
 
 #### 2024.03.27
 
-- [大海捞多针（OpenCompass版本）纠错实验的补充介绍](supplementary/README.md)
+- [大海捞多针补充介绍](supplementary/README.md)
 
 <!-- [The supplementary information about NeedleInAHaystack is available in Chinese.](fig/README.md) -->
 
