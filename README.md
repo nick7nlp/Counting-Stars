@@ -14,6 +14,8 @@ We'd like to encourage you to test the Counting-Stars using
 
 ![explain](supplementary/explain.png)
 
+The figure above may help you understand the idea of the Counting-Stars, including the meaning of the parameters **M** and **N**.
+
 ## Note
 
 #### 2024.03.28
