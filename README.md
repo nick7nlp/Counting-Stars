@@ -28,7 +28,7 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 
 #### 2024.04.24
 
-补充阶跃星辰（step-1-200k）实验：
+补充阶跃星辰（step-1-200k）在中文数星星上的实验（星星数量是打乱的）：
 
 <p align="center">
 <img src="supplementary/stepchat.png" width = "90%" />
