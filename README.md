@@ -37,11 +37,19 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 <img src="supplementary/stepchat.png" width = "90%" />
 </p>
 
-由于网页端输入长度被限制在100K，因此我们尝试将测试内容存成txt，通过人工上传文件的方法进行测试，获得了最终结果。因此，参数也全都是默认参数。
+由于网页端输入长度被限制在100K，因此我们尝试将测试内容存成txt，通过人工上传文件的方法进行测试，获得了最终结果。因此，参数也全都是默认参数。有一说一，StepChat的效果很好。
 
 <p align="center">
 <img src="supplementary/test_method.png" width = "60%" />
 </p>
+
+同时，补充GLM-4（glm-4）在中文数星星上的实验（星星数量是打乱的）：
+
+<p align="center">
+<img src="supplementary/glm4.png" width = "90%" />
+</p>
+
+GLM-4的temperature参数无法设置成0，因此在实验时，和StepChat相同，直接采用默认参数。
 
 #### 2024.03.28
 
