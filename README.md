@@ -13,8 +13,9 @@
 
 </div>
 
-
-![explain](supplementary/explain.png)
+<p align="center">
+<img src="supplementary/explain.png" width = "90%" />
+</p>
 
 ## Note
 
@@ -24,6 +25,20 @@ We'd like to encourage you to test the Counting-Stars using
 
 , the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
 The figure above may help you understand the idea of the Counting-Stars, including the meaning of the parameters **M** and **N**.
+
+#### 2024.04.24
+
+补充阶跃星辰（step-1-200k）实验：
+
+<p align="center">
+<img src="supplementary/stepchat.png" width = "90%" />
+</p>
+
+由于网页端输入长度被限制在100K，因此我们尝试将测试内容存成txt，通过人工上传文件的方法进行测试，获得了最终结果。因此，参数也全都是默认参数。
+
+<p align="center">
+<img src="supplementary/test_method.png" width = "60%" />
+</p>
 
 #### 2024.03.28
 
@@ -71,7 +86,9 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 - **Shuffled**: [15, 117, 42, 69, 58, 107, 9, 49, 113, 66, 26, 102, 81, 94, 77, 61, 5, 19, 109, 3, 35, 54, 86, 89, 127, 21, 46, 122, 38, 97, 74, 29]
 - GPT4和KIMI的测试结果如下图。
 
-![stone_gpt4_kimi_32_32_random](supplementary/stone_gpt4_kimi_32_32_random.png)
+<p align="center">
+<img src="supplementary/stone_gpt4_kimi_32_32_random.png" width = "90%" />
+</p>
 
 - 综上，我们认为打乱顺序可以作为一个更难的版本（这个实验在论文中已增加）。
 
