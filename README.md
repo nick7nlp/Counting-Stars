@@ -37,7 +37,7 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 <img src="supplementary/stepchat.png" width = "90%" />
 </p>
 
-由于网页端输入长度被限制在100K，因此我们尝试将测试内容存成txt，通过人工上传文件的方法进行测试，获得了最终结果。因此，参数也全都是默认参数。有一说一，StepChat的效果很好。
+由于网页端输入长度被限制在100K，因此我们尝试将测试内容存成txt，通过人工上传文件的方法进行测试，每条数据都会开启新对话，参数也全都是默认参数。我们一共进行了三组测试。从结果来看，StepChat的效果很好。
 
 <p align="center">
 <img src="supplementary/test_method.png" width = "60%" />
