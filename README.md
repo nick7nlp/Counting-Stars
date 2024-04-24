@@ -20,7 +20,6 @@
 ## Note
 
 We'd like to encourage you to test the Counting-Stars using
-- Counting_Stars_32_32.jsonl
 - Counting_Stars_Random_32_32.jsonl
 
 , the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
@@ -28,7 +27,11 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 
 #### 2024.04.24
 
-补充阶跃星辰（step-1-200k）在中文数星星上的实验（星星数量是打乱的）：
+文章还在继续增加实验和改进的阶段，后续会有各种各样的更新，期待与有想法的人一起讨论！
+
+关于中文测试，我们已经将带有描述数星星的句子扩充到1024条（即M=[32,64,128,256,512,1024]），并构建了随机打乱的星星数量，可以支持对1M长文的测试。
+
+此外，补充阶跃星辰（step-1-200k）在中文数星星上的实验（星星数量是打乱的）：
 
 <p align="center">
 <img src="supplementary/stepchat.png" width = "90%" />
