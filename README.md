@@ -20,10 +20,17 @@
 ## Note
 
 We'd like to encourage you to test the Counting-Stars using
-- Counting_Stars_Random_32_32.jsonl
+- Counting_Stars_128000_32_32.jsonl
+- Counting_Stars_256000_32_32.jsonl
 
 , the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
 The figure above may help you understand the idea of the Counting-Stars, including the meaning of the parameters **M** and **N**.
+
+#### 2024.04.26
+
+通过大量实验发现，如果星星数量是递增的，或者有明显规律的，会导致测试结果不准确（大模型可能胡言乱语，乱造结果），因此将实验的基础版本改为星星数量是随机递增生成，然后打乱，具体测试数据已经更新在```test_data```中，包含两个版本，128K和256K的。
+- ```Counting_Stars_128000_32_32.jsonl```
+- ```Counting_Stars_256000_32_32.jsonl```
 
 #### 2024.04.24
 
