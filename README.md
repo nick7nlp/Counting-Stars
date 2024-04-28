@@ -38,18 +38,6 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 
 关于中文测试，我们已经将带有描述数星星的句子扩充到1024条（即M=[32,64,128,256,512,1024]），并构建了随机打乱的星星数量，可以支持对1M长文的测试。
 
-此外，补充阶跃星辰（step-1-200k）在中文数星星上的实验（星星数量是打乱的）：
-
-<p align="center">
-<img src="supplementary/stepchat.png" width = "90%" />
-</p>
-
-由于网页端输入长度被限制在100K，因此我们尝试将测试内容存成txt，通过人工上传文件的方法进行测试，每条数据都会开启新对话，参数也全都是默认参数。我们一共进行了三组测试，上图是三组求平均值后的结果展示。可以看出，StepChat的效果很好。
-
-<p align="center">
-<img src="supplementary/test_method.png" width = "60%" />
-</p>
-
 同时，补充GLM-4（glm-4）在中文数星星上的实验（星星数量是打乱的）：
 
 <p align="center">
