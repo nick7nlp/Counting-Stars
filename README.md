@@ -44,7 +44,7 @@ The figure above may help you understand the idea of the Counting-Stars, includi
 <img src="supplementary/glm4.png" width = "90%" />
 </p>
 
-GLM-4的temperature参数无法设置成0，因此在实验时，和StepChat相同，直接采用默认参数。
+GLM-4的temperature参数无法设置成0，因此在实验时，直接采用默认参数。
 
 #### 2024.03.28
 
