@@ -3,7 +3,7 @@
   <br />
   <br />
 
-# A Simple, Efficient, and Reasonable Strategy for Evaluating Long-Context Large Language Models
+# A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models
 
 <p align="center">
   <a href="./README_ZH.md">中文</a> •
