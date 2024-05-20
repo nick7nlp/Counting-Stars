@@ -5,12 +5,6 @@
 
 ## A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models
 
-<p align="center">
-  <a href="./README_ZH.md">中文</a> •
-  <a href="./README.md">English</a> •
-  <a href="https://arxiv.org/pdf/2403.11802v2.pdf">Paper</a>
-</p>
-
 </div>
 
 <p align="center">
