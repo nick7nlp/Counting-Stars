@@ -24,8 +24,8 @@
 ## Note
 
 We'd like to encourage you to test the Counting-Stars using
-- Counting_Stars_128000_32_32.jsonl
-- Counting_Stars_256000_32_32.jsonl
+- Counting_Stars_EN_acquisition_128000_32.jsonl
+- Counting_Stars_EN_reasoning_128000_32.jsonl
 
 , the standard version of the Counting-Stars. Notably, only testing the first one is enough because the second is more difficult than the first one.
 
