@@ -14,7 +14,11 @@
 </div>
 
 <p align="center">
-<img src="figures/tasks.png" width = "90%" />
+<img src="figures/tasks.png" width = "85%" />
+</p>
+
+<p align="center">
+<img src="figures/results.png" width = "90%" />
 </p>
 
 ## Note
