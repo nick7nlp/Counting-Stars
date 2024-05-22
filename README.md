@@ -18,10 +18,10 @@
 ## Note
 
 We'd like to encourage you to test the Counting-Stars using
-- Counting_Stars_EN_acquisition_128000_32.jsonl
-- Counting_Stars_ZH_acquisition_128000_32.jsonl
-- Counting_Stars_EN_reasoning_128000_32.jsonl
-- Counting_Stars_ZH_reasoning_128000_32.jsonl
+- Me-Acq. (EN) : ```Counting_Stars_EN_acquisition_128000_32.jsonl```
+- Me-Acq. (ZH) : ```Counting_Stars_ZH_acquisition_128000_32.jsonl```
+- Me-Rea. (EN) : ```Counting_Stars_EN_reasoning_128000_32.jsonl```
+- Me-Rea. (ZH) : ```Counting_Stars_ZH_reasoning_128000_32.jsonl```
 
 , the 128K English and Chinese versions of the Counting-Stars.
 
