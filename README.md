@@ -26,7 +26,7 @@ We'd like to encourage you to test the Counting-Stars using
 , the 128K English and Chinese versions of the Counting-Stars.
 
 
-| Rank | Models    | Me-Acq. (ZH) | Me-Acq. (EN) | Me-Rea. (ZH) | Me-Rea. (EN) | Avg. |
+| Rank | Models    | Me-Acq.(ZH) | Me-Acq.(EN) | Me-Rea.(ZH) | Me-Rea.(EN) | Avg. |
 |----|---------------------------------------------|---------------------------------|---------------------------------|-------------------------------|-------------------------------|---------------|
 |1| GPT-4o|0.730|0.800|0.680|0.666|0.719|
 |2| Gemini 1.5 Pro|0.775|0.833|0.575|0.371|0.639|
