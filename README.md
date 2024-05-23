@@ -34,6 +34,7 @@ We'd like to encourage you to test the Counting-Stars using
 |4| GPT-4 Turbo (0125)|0.663|0.662|0.386|0.610|0.580|
 |5| Moonshot-v1|0.606|0.559|0.344|0.460|0.492|
 |6| GLM-4|0.682|0.389|0.475|0.179|0.431|
+|7| Baichuan3-Turbo-128k|-|0.490|-|-|-|
 |-| Claude3 Sonnet|0.788|-|-|-|-|
 |-| Claude3 Haiku|0.698|-|-|-|-|
 
