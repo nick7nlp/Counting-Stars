@@ -11,10 +11,6 @@
 <img src="figures/tasks.png" width = "85%" />
 </p>
 
-<p align="center">
-<img src="figures/results.png" width = "90%" />
-</p>
-
 ## Note
 
 We'd like to encourage you to test the Counting-Stars using
