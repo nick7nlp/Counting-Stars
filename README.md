@@ -40,7 +40,7 @@ We'd like to encourage you to test the Counting-Stars using
 ## Task Description
 
 <p>
-<img src="figures/tasks.png" width = "100%" />
+<img src="figures/tasks.png" width = "90%" />
 </p>
 
 ## CONTACT
