@@ -37,8 +37,10 @@ We'd like to encourage you to test the Counting-Stars using
 |-| Claude3 Haiku|0.698|-|-|-|-|
 |-| Baichuan3-Turbo-128k|0.759|0.490|-|-|-|
 
+## Task Description
+
 <p>
-<img src="figures/tasks.png" width = "85%" />
+<img src="figures/tasks.png" width = "100%" />
 </p>
 
 ## CONTACT
