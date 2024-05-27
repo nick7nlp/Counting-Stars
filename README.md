@@ -7,9 +7,7 @@
 
 </div>
 
-<p align="center">
-<img src="figures/tasks.png" width = "85%" />
-</p>
+
 
 ## Note
 
@@ -39,7 +37,9 @@ We'd like to encourage you to test the Counting-Stars using
 |-| Claude3 Haiku|0.698|-|-|-|-|
 |-| Baichuan3-Turbo-128k|0.759|0.490|-|-|-|
 
-
+<p>
+<img src="figures/tasks.png" width = "85%" />
+</p>
 
 ## CONTACT
 For any questions, feel free to create an issue, and we will try our best to solve it. \
