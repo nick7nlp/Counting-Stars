@@ -42,6 +42,20 @@ We'd like to encourage you to test the Counting-Stars using
 <img src="figures/tasks.png" width = "100%" />
 </p>
 
+
+## Cite
+If you use this benchmark, please cite this paper
+```
+@misc{song2024countingstars,
+      title={Counting-Stars: A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models}, 
+      author={Mingyang Song and Mao Zheng and Xuan Luo},
+      year={2024},
+      eprint={2403.11802},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 ## CONTACT
 For any questions, feel free to create an issue, and we will try our best to solve it. \
 **If the problem is more urgent**, you can email me simultaneously (I check email almost daily).
