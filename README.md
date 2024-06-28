@@ -7,7 +7,13 @@
 
 </div>
 
+In this work, we propose **a multi-evidence, position-aware, and scalable benchmark** for evaluating long-context LLMs, named **Counting-Stars**, which evaluates long-context LLMs by using two tasks: multi-evidence acquisition and multi-evidence reasoning. 
+- **Multi-evidence**: *Counting-Stars is the most evidence-intensive evaluation in known long-context benchmarks*.
+- **Position-aware**: *The position of the evidence in the context can be adjusted as desired and tested in a targeted manner*.
+- **Scalable**: *Both the context length and the amount of evidence can be expanded arbitrarily*.
 
+
+Based on the Counting-Stars test, we conduct experiments to evaluate long-context LLMs (i.e., GPT-4 Turbo, Gemini 1.5 Pro, Claude3 Opus, GLM-4, and Moonshot-v1). Experimental results demonstrate that Gemini 1.5 Pro achieves the best overall results, while the performance of GPT-4 Turbo is the most stable across various tasks. Furthermore, our analysis of these LLMs, which are extended to handle long-context scenarios, indicates that there is potential for improvement as the length of the input context and the intricacy of the tasks are increasing.
 
 ## Note
 
