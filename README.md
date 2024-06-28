@@ -15,6 +15,7 @@ In this work, we propose **a multi-evidence, position-aware, and scalable benchm
 
 Based on the Counting-Stars test, we conduct experiments to evaluate long-context LLMs (i.e., GPT-4 Turbo, Gemini 1.5 Pro, Claude3 Opus, GLM-4, and Moonshot-v1). Experimental results demonstrate that Gemini 1.5 Pro achieves the best overall results, while the performance of GPT-4 Turbo is the most stable across various tasks. Furthermore, our analysis of these LLMs, which are extended to handle long-context scenarios, indicates that there is potential for improvement as the length of the input context and the intricacy of the tasks are increasing.
 
+> Please find more details of this work in the [paper](https://arxiv.org/pdf/2403.11802).
 ## Note
 
 We'd like to encourage you to test the Counting-Stars using
