@@ -58,9 +58,13 @@ We'd like to encourage you to test the Counting-Stars using
 <img src="figures/acq.png" width = "100%" />
 </p>
 
+> Visualization of the results on the Chinese version of the Counting-Stars-32-(Multi-evidence Acquisition).
+
 <p>
 <img src="figures/rea.png" width = "100%" />
 </p>
+
+> Visualization of the results on the Chinese version of the Counting-Stars-32-(Multi-evidence Reasoning).
 
 ## Cite
 If you use this benchmark, please cite this paper
