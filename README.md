@@ -50,7 +50,17 @@ We'd like to encourage you to test the Counting-Stars using
 
 ## Evaluation Results
 
+<p>
+<img src="figures/results.png" width = "100%" />
+</p>
 
+<p>
+<img src="figures/acq.png" width = "100%" />
+</p>
+
+<p>
+<img src="figures/rea.png" width = "100%" />
+</p>
 
 ## Cite
 If you use this benchmark, please cite this paper
