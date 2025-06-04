@@ -66,15 +66,18 @@ We'd like to encourage you to test the Counting-Stars using
 > Visualization of the results on the Chinese version of the Counting-Stars-32-(Multi-evidence Reasoning).
 
 ## Cite
-If you use this benchmark, please cite this paper
+If you find our work helpful, feel free to give us a cite.
+
 ```
-@misc{song2024countingstars,
-      title={Counting-Stars: A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models}, 
-      author={Mingyang Song and Mao Zheng and Xuan Luo},
-      year={2024},
-      eprint={2403.11802},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{song-etal-2025-counting,
+    title = "Counting-Stars: A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models",
+    author = "Song, Mingyang and Zheng, Mao and Luo, Xuan",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.253",
+    pages = "3753--3763"
 }
 ```
 
