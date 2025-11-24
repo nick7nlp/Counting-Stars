@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="figures/logo.png" width="400px"/>
-</div>
-<div align="center">
   <h2>Counting-Stars (★): A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models</h1>
+</div>
+
+<div align="center">
+  <img src="figures/logo.png" width="400px"/>
 </div>
 
 In this work, we propose **a multi-evidence, position-aware, and scalable benchmark** for evaluating long-context LLMs, named **Counting-Stars**, which evaluates long-context LLMs by using two tasks: multi-evidence acquisition and multi-evidence reasoning. 
