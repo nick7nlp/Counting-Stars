@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="figures/logo.png" width="400px"/>
+  <img src="figures/logo.png" width="200px"/>
 </div>
 <div align="center">
   <h1>A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models</h1>
